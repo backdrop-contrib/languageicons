@@ -46,7 +46,7 @@ function languageicons_help($path, $arg) {
  */
 function languageicons_menu() {
   $items['admin/config/regional/language/icons'] = array(
-    'title' => 'Icons',
+    'title' => 'Language icons',
     'page callback' => 'drupal_get_form',
     'page arguments' => array('languageicons_admin_settings'),
     'weight' => 10,

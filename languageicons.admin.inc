@@ -13,6 +13,7 @@
  * @see system_settings_form()
  */
 function languageicons_admin_settings() {
+  drupal_set_title('Language icons configuration');
   $form['show'] = array(
     '#type' => 'fieldset',
     '#title' => t('Add language icons'),
