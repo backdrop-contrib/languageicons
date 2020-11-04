@@ -30,10 +30,10 @@ make sure to check it out.
 
 Troubleshooting
 ---------------
-Report all the issues on https://github.com/backdrop-contrib/languageicons/issues.
+Report all issues on https://github.com/backdrop-contrib/languageicons/issues.
 
 
 Credits
 -------
-Contributors are listed on https://github.com/backdrop-contrib/languageicons/graphs/contributors.
+Contributors: https://github.com/backdrop-contrib/languageicons/graphs/contributors.
 Ported to Backdrop by [AltaGrade](https://www.altagrade.com) team.
