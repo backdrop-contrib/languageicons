@@ -1,0 +1,8 @@
+{
+    "_config_name": "languageicons.settings",
+    "languageicons_show_node": "1",
+    "languageicons_show_block": "1",
+    "languageicons_placement": "replace",
+    "languageicons_path": "modules/languageicons/flags/*.png",
+    "languageicons_size": "16x12"
+}

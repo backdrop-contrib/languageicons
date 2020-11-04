@@ -1,6 +1,8 @@
 name = Language Icons
 description = Adds icons to language links.
 dependencies[] = locale
-package = Multilingual
-core = 7.x
+package = Translation
+backdrop = 1.x
+type = module
+tags[] = Language
 configure = admin/config/regional/language/icons
