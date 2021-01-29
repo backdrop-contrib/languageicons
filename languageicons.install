@@ -10,5 +10,4 @@
  */
 function languageicons_uninstall() {
   config('languageicons.settings')->delete();
-  backdrop_set_message(t('Language Icons module has been uninstalled.'));
 }
